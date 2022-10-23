@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-bookkeeping-website/static/css/main.07be7270.chunk.css",
+    "main.js": "/react-bookkeeping-website/static/js/main.d25caa43.chunk.js",
+    "main.js.map": "/react-bookkeeping-website/static/js/main.d25caa43.chunk.js.map",
+    "runtime-main.js": "/react-bookkeeping-website/static/js/runtime-main.36e86849.js",
+    "runtime-main.js.map": "/react-bookkeeping-website/static/js/runtime-main.36e86849.js.map",
+    "static/js/2.11665e6b.chunk.js": "/react-bookkeeping-website/static/js/2.11665e6b.chunk.js",
+    "static/js/2.11665e6b.chunk.js.map": "/react-bookkeeping-website/static/js/2.11665e6b.chunk.js.map",
+    "index.html": "/react-bookkeeping-website/index.html",
+    "precache-manifest.a11c65d62b5e9701e59a38c52c9f62bd.js": "/react-bookkeeping-website/precache-manifest.a11c65d62b5e9701e59a38c52c9f62bd.js",
+    "service-worker.js": "/react-bookkeeping-website/service-worker.js",
+    "static/css/main.07be7270.chunk.css.map": "/react-bookkeeping-website/static/css/main.07be7270.chunk.css.map",
+    "static/js/2.11665e6b.chunk.js.LICENSE.txt": "/react-bookkeeping-website/static/js/2.11665e6b.chunk.js.LICENSE.txt",
+    "static/media/bookkeeping.jpg": "/react-bookkeeping-website/static/media/bookkeeping.09561348.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.36e86849.js",
+    "static/js/2.11665e6b.chunk.js",
+    "static/css/main.07be7270.chunk.css",
+    "static/js/main.d25caa43.chunk.js"
+  ]
+}
